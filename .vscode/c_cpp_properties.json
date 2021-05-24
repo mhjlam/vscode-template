@@ -1,0 +1,53 @@
+{
+    "configurations":
+    [
+        {
+            "name": "Mac",
+            "includePath":
+            [
+                "/usr/include"
+            ],
+            "browse":
+            {
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": "",
+                "path":
+                [
+                    "/usr/include"
+                ]
+            }
+        },
+        {
+            "name": "Linux",
+            "includePath":
+            [
+                "/usr/include"
+            ],
+            "browse":
+            {
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": "",
+                "path":
+                [
+                    "/usr/include"
+                ]
+            }
+        },
+        {
+            "name": "Win32",
+            "includePath":
+            [
+                "d:/env/mingw/include"
+            ],
+            "browse":
+            {
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": "",
+                "path":
+                [
+                    "d:/env/mingw/include"
+                ]
+            }
+        }
+    ]
+}
